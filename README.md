@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hossain-Ahamed
-- 👀 I’m interested in Java,Web development and fun project
-- 🌱 I’m currently learning Web development
+<!-- - 👀 I’m interested in Java,Web development and fun project -->
+- 🌱<!-- I’m -->currently learning Web development
 - 💞️ I’m looking to collaborate on software development
 
 # Reach me : 
