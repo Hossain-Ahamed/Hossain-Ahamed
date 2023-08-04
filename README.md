@@ -17,10 +17,6 @@ Welcome to my GitHub profile! I'm a web developer with expertise in the MERN sta
 - Version Control: Git
 
 
-## 💻 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Ahamed&show_icons=true&hide_title=true&hide_border=true)
-
 ## 📝 About Me:
 
 Coding to me is like solving intricate puzzles where each line of code is a piece that fits into a greater design. I find joy in crafting elegant solutions and take pride in writing code that is easy to read, understand, and maintain.
