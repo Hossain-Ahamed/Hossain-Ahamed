@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a web developer with expertise in the MERN sta
 - Backend: Node.js, Express.js
 - Database: MongoDB, MySQL
 - Version Control: Git
-
+- Language: Java, JavaScript, Python, C, C++
 
 ## 📝 About Me:
 
