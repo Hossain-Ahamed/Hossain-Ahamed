@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hossain Ahamed!
+# 👋 Hi, I'm Hossain!
 
 Welcome to my GitHub profile! I'm a web developer with expertise in the MERN stack and a passion for crafting meaningful applications.
 
