@@ -19,11 +19,9 @@ Welcome to my GitHub profile! I'm a web developer with expertise in the MERN sta
 
 ## 📝 About Me:
 
-Coding to me is like solving intricate puzzles where each line of code is a piece that fits into a greater design. I find joy in crafting elegant solutions and take pride in writing code that is easy to read, understand, and maintain.
 
 Beyond the screen, I'm an avid learner, constantly exploring new technologies and trends. Tech blogs are my go-to for insights, and I'm always excited to contribute to open-source projects that make a difference.
 
-When I'm not immersed in the digital world, I find balance by delving into the fantastic realms of video games. They fuel my creativity and provide a refreshing escape.
 
 I believe in collaboration and welcome challenges as opportunities for growth. Together, let's build meaningful projects that leave a positive impact on people's lives.
 
