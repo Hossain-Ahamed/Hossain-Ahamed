@@ -30,7 +30,7 @@ I believe in collaboration and welcome challenges as opportunities for growth. T
 - LinkedIn: [Md. Hossain Ahamed](https://www.linkedin.com/in/hossain-ahamed/)
 - Twitter: [@hossain_ahamed_](https://twitter.com/hossain_ahamed_)
 - Facebook: [Hossain Ahamed](https://www.facebook.com/hossain.ahamed.001/)
-- Email: [hossainahamed6872@gmail.com](mailto:hossainahamed6872@gmail.com)
+- Email: [contact.hossainahamed@gmail.com](mailto:contact.hossainahamed@gmail.com)
 
 Feel free to connect with me, and let's embark on an exciting coding journey together! 😄
 
