@@ -21,11 +21,12 @@ A **passionate MERN Stack web developer**, dedicated to crafting meaningful appl
 
 # 📝Profile Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossain-Ahamed&theme=blueberry)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hossain-Ahamed&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hossain-Ahamed&theme=blueberry&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hossain-Ahamed&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hossain-Ahamed&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossain-Ahamed&theme=blueberry)
+
+
+
 
 ## 👨🏼‍💻 About Me:
 
