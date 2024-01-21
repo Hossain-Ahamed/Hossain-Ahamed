@@ -14,7 +14,7 @@ A **passionate MERN Stack web developer**, dedicated to crafting meaningful appl
 <h3 align="left">📚 Languages and Tools:</h3>
 <p align="center">
  <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Hossain-Ahamed/Hossain-Ahamed?tab=readme-ov-file#-hi-im-hossain">
     <img src="https://skillicons.dev/icons?i=git,react,express,nodejs,mongodb,git,html,css,tailwind,sass,materialui,js,ts,c,cpp,java,python" />
   </a>
 </p>
