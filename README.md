@@ -1,6 +1,5 @@
-# 👋 Hi,
-
-**MERN Stack web developer**
+# 👋 Hi, I am Hossain.
+**MERN Stack web developer** | **BSC in CSE**
 
 <h3 align="left">👀 Connect with me:</h3>
 <p align="center">
