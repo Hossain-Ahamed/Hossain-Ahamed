@@ -1,10 +1,10 @@
-# 👋 Hi, I'm **Hossain!**
+# 👋 Hi,
 
-A **passionate MERN Stack web developer**, dedicated to crafting meaningful applications.
+**MERN Stack web developer**
 
 <h3 align="left">👀 Connect with me:</h3>
 <p align="center">
-<!-- <a href="mailto:contact.hossainahamed@gmail.com" target="_blank"><img align="center" src="images/gmail.svg" alt="hossain-ahamed" height="30" width="40" /></a> -->
+<a href="mailto:contact.hossainahamed@gmail.com" target="_blank"><img align="center" src="images/gmail.svg" alt="hossain-ahamed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hossain-ahamed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossain-ahamed" height="30" width="40" /></a> 
 <a href="https://twitter.com/hossain_ahamed_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossain_ahamed_" height="30" width="40" /></a>
 <a href="https://facebook.com/hossain.ahamed.001/" target="blank"><img align="center" src="images/facebook.svg" alt="hossain-ahamed" height="30" width="40" /></a>
@@ -30,16 +30,18 @@ A **passionate MERN Stack web developer**, dedicated to crafting meaningful appl
 # 📝Profile Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hossain-Ahamed&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hossain-Ahamed&theme=blueberry&utcOffset=8)
--->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossain-Ahamed&theme=blueberry)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossain-Ahamed&theme=blueberry)
+-->
 
 ## 👨🏼‍💻 About Me:
 
-I am Hossain Ahamed currently pursuing my Bachelor in computer science and engineering from Ranada Prasad Shaha University. 
+I am **Hossain Ahamed**.
 
-Beyond the screen, I'm an avid learner, continuously exploring new technologies and industry trends.I firmly believe in collaboration and view challenges as opportunities for personal and professional growth. Let's work together to build projects that have a positive impact on people's lives.
+I have completed my Bachelor Degree in computer science and engineering from Ranada Prasad Shaha University. 
+
+Beyond the screen, I'm a MERN stack develeoper, continuously exploring new technologies and industry trends. I firmly believe in collaboration and view challenges as opportunities for personal and professional growth. 
 
 Feel free to connect with me, and let's embark on an exciting coding journey together! 😄
 
-Thank you for visiting my profile, and have a great day! 😄
+Thank you and have a great day! 😄
