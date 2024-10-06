@@ -9,7 +9,7 @@
 <a href="https://facebook.com/hossain.ahamed.001/" target="blank"><img align="center" src="images/facebook.svg" alt="hossain-ahamed" height="30" width="40" /></a>
 
 </p>
-
+<!--
 <h3 align="left">📚 Languages and Tools:</h3>
 <p align="center">
  <p align="center">
@@ -18,7 +18,7 @@
   </a>
 </p>
 </p>
-
+-->
 
  
 
