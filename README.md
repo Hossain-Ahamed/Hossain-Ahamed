@@ -14,13 +14,9 @@ Thank you and have a great day! 😄
 ---
 
 ### 👀 Connect with me:
-<p align="center">
- <a href="https://hossain-ahamed.com/" target="_blank"><img align="center" src="images/web-link.png" alt="hossain-ahamed-website" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:contact.hossainahamed@gmail.com" target="_blank"><img align="center" src="images/gmail.svg" alt="hossain-ahamed" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/hossain-ahamed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossain-ahamed" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/hossain_ahamed_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossain_ahamed_" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/hossain.ahamed.001/" target="blank"><img align="center" src="images/facebook.svg" alt="hossain-ahamed" height="40" width="40" /></a>
-</p>
+* **Portfolio:** <a href="https://hossain-ahamed.com/" target="_blank"></a> [hossain-ahamed.com](https://hossain-ahamed.com/)
+* **Email:** <a href="mailto:contact.hossainahamed@gmail.com" target="_blank"></a> [contact.hossainahamed@gmail.com](mailto:contact.hossainahamed@gmail.com)
+* **LinkedIn:** <a href="https://linkedin.com/in/hossain-ahamed" target="_blank"></a> [in/hossain-ahamed](https://linkedin.com/in/hossain-ahamed)
 
 ---
 
