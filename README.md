@@ -9,7 +9,7 @@ Beyond the screen, I'm a **MERN stack developer**, continuously exploring new te
 
 Feel free to connect with me, and let's embark on an exciting coding journey together! 😄
 
-Thank you and have a great day! 😄
+Thank you and have a great day!😄
 
 ---
 
